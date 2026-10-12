@@ -10,3 +10,4 @@
 /.abcd/rules.json @REPPL
 /AGENTS.md @REPPL
 /LICENSE @REPPL
+# Test line: checks whether code-owner review blocks the owner's own pull request.
