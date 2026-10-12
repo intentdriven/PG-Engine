@@ -1,0 +1,11 @@
+{
+  "roots": [
+    "README.md",
+    ".abcd/development",
+    "AGENTS.md"
+  ],
+  "banned_tokens": [],
+  "rules": {},
+  "exempt_paths": [],
+  "exempt_if_status": []
+}

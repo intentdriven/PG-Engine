@@ -1,0 +1,12 @@
+# The publish surface: paths that change what CI enforces, what the commit hooks
+# check, or how abcd runs in this repository. A rule requiring code-owner review
+# is added once the repository is public (rulesets need a paid plan on private
+# repositories).
+/.github/ @REPPL
+/.githooks/ @REPPL
+/.abcd/config.json @REPPL
+/.abcd/config/ @REPPL
+/.abcd/docs-lint.json @REPPL
+/.abcd/rules.json @REPPL
+/AGENTS.md @REPPL
+/LICENSE @REPPL
